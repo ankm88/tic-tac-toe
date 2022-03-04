@@ -117,7 +117,7 @@ def play_game():
 
 
 if __name__ == "__main__":
-
+    print("HELLO WORLD - FIRST GIT PUSH")
     print("\n-------Welcome to TicTacToe------")
     print("This is a two player game. Please note below KEYS to punch in markers for your game\n")
     demo_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
